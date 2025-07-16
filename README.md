@@ -22,6 +22,7 @@ This HR Analytics project aims to uncover the reasons behind employee attrition,
 
 ## Dataset Dsecription
 - 
+- <a href=https://github.com/Maggy317/HR-Analytics-Project/blob/main/HR_analytics_cleaned_dataset.xlsx>Cleaned Dataset</a>
 
 ## Tools
 -	Microsoft Excel (pivot tables, KPIs summary)
