@@ -21,7 +21,7 @@ This HR Analytics project aims to uncover the reasons behind employee attrition,
 -	What actionable strategies can improve retention?
 
 ## Dataset Dsecription
-- 
+- <a href=https://github.com/Maggy317/HR-Analytics-Project/blob/main/HR_analytics_datasett.xlsx>Raw dataset</a>
 - <a href=https://github.com/Maggy317/HR-Analytics-Project/blob/main/HR_analytics_cleaned_dataset.xlsx>Cleaned Dataset</a>
 
 ## Tools
@@ -36,7 +36,7 @@ This HR Analytics project aims to uncover the reasons behind employee attrition,
 -	Added calculated columns like Age Band and Atrrition Rate
 
 ## Visuals
--	Attrition by department
+-	
 -	Satisfaction vs. overtime
 
 ## Key Insights
