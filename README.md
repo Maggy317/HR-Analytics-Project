@@ -36,8 +36,8 @@ This HR Analytics project aims to uncover the reasons behind employee attrition,
 -	Added calculated columns like Age Band and Atrrition Rate
 
 ## Visuals
+-	<a href=https://github.com/Maggy317/HR-Analytics-Project/blob/main/HR_Analytics_Power%20BI.png>PowerBI Dashboard</a>
 -	
--	Satisfaction vs. overtime
 
 ## Key Insights
 -	Sales & HR department showed highest attrition rates
